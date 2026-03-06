@@ -1,5 +1,5 @@
 # Propensity Score Methods for Estimating Absolute Treatment Effects in Survival Analysis
-
+[DOI]: (https://doi.org/10.5281/zenodo.18886413)
 This repository contains R code used for the simulation study evaluating the performance of propensity score methods for estimating absolute treatment effects (ATE and ATT) in mean and median survival time.
 
 ## Contents
